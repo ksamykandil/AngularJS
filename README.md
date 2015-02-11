@@ -16,18 +16,15 @@ Steps for installing Protractor on windows:
 6- Run "webdriver-manager start" to start the Selenium Server.
 
 7- Move to the C:/Users/{your_user_name}/AppData/Roaming/npm/node_modules/protractor/example
-
---> Protractor is installed in AppData hidden directory.
+    
+    --> Protractor is installed in AppData hidden directory.
 
 8- Run "protractor conf.js" to run the default test of protractor.
-
---> Expected behaviour: Google chrome will start and the test will run then closed.
-
-Check the cmd to find the following:
-
-    Using ChromeDriver directly...
-
-    [launcher] Running 1 instances of WebDriver
+    --> Expected behaviour: Google chrome will start and the test will run then closed.
+    
+    Check the cmd to find the following:
+        Using ChromeDriver directly...
+        [launcher] Running 1 instances of WebDriver
 
     ...
 
