@@ -1,0 +1,14 @@
+ Description for the POC
+=========================
+1- One module:
+	a. User Module.
+	
+2- One Controller:
+	a. User Controller.
+
+3- Two Directives:
+	a. JSON Directive.
+	b. XML Directive.
+
+4- One Service:
+	a. Conversion Service.
