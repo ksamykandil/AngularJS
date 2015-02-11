@@ -1,2 +1,2 @@
 # AngularJS
-AngularJS Sample
+AngularJS Example with testing using Protractor
