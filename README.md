@@ -31,7 +31,6 @@ Steps for installing Protractor on windows:
         3 tests, 5 assertions, 0 failures
         [launcher] 0 instance(s) of WebDriver still running
         [launcher] chrome #1 passed
-
 ================================================================================================
 
 To run the test, move to the Testing folder & run command "protractor conf.js".
