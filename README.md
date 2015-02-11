@@ -20,21 +20,17 @@ Steps for installing Protractor on windows:
     --> Protractor is installed in AppData hidden directory.
 
 8- Run "protractor conf.js" to run the default test of protractor.
+
     --> Expected behaviour: Google chrome will start and the test will run then closed.
     
     Check the cmd to find the following:
         Using ChromeDriver directly...
         [launcher] Running 1 instances of WebDriver
-
-    ...
-
-    Finished in 33.933 seconds
-
-    3 tests, 5 assertions, 0 failures
-
-    [launcher] 0 instance(s) of WebDriver still running
-
-    [launcher] chrome #1 passed
+        ...
+        Finished in 33.933 seconds 
+        3 tests, 5 assertions, 0 failures
+        [launcher] 0 instance(s) of WebDriver still running
+        [launcher] chrome #1 passed
 
 ================================================================================================
 
